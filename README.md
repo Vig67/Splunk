@@ -27,26 +27,18 @@ This once
 
 
 
-### 1. Admin Search
-![Admin Search](admin.PNG)
+![Admin Search](./admin.PNG)
 
-### 2. Connection Refused Search
-![Connection Refused](connection%20refused.PNG)
+![Connection Refused](./connection%20refused.PNG)
 
-### 3. Error Search
-![Error Search](error.PNG)
+![Error Search](./error.PNG)
 
-### 4. Failed Login Search
-![Failed Login](fail.PNG)
+![Failed Login](./fail.PNG)
 
-### 5. Login Search
-![Login Search](login.PNG)
+![Login Search](./login.PNG)
 
-### 6. Stats Count By Command
-![Stats Count By](Stats%20count%20by.PNG)
+![Stats Count By](./Stats%20count%20by.PNG)
 
-### 7. Top Command
-![Top Command](TOP.PNG)
+![Top Command](./TOP.PNG)
 
-### 8. Warning Search
-![Warning Search](warning.PNG)
+![Warning Search](./warning.PNG)
