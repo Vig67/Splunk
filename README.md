@@ -24,3 +24,29 @@ This once
 •	rare – identifies the least frequently occurring values.
 •	table – displays selected fields in a table.
 •	sort – arranges search results in ascending or descending order.
+
+
+
+### 1. Admin Search
+![Admin Search](admin.PNG)
+
+### 2. Connection Refused Search
+![Connection Refused](connection%20refused.PNG)
+
+### 3. Error Search
+![Error Search](error.PNG)
+
+### 4. Failed Login Search
+![Failed Login](fail.PNG)
+
+### 5. Login Search
+![Login Search](login.PNG)
+
+### 6. Stats Count By Command
+![Stats Count By](Stats%20count%20by.PNG)
+
+### 7. Top Command
+![Top Command](TOP.PNG)
+
+### 8. Warning Search
+![Warning Search](warning.PNG)
