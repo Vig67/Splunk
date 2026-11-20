@@ -6,8 +6,11 @@ I uploaded sample web logs to practise searching through events. I also performe
 Some of the searches included:
 
 error – to find error messages.
+
 failed – to identify failed activities.
+
 login – to find login-related events.
+
 admin – to locate administrator-related activities.
 fail* – to find words beginning with fail.
 *error* – to find events containing error.
@@ -27,18 +30,3 @@ This once
 
 
 
-![Admin Search](./admin.PNG)
-
-![Connection Refused](./connection%20refused.PNG)
-
-![Error Search](./error.PNG)
-
-![Failed Login](./fail.PNG)
-
-![Login Search](./login.PNG)
-
-![Stats Count By](./Stats%20count%20by.PNG)
-
-![Top Command](./TOP.PNG)
-
-![Warning Search](./warning.PNG)
